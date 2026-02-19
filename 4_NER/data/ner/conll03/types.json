@@ -1,0 +1,21 @@
+{
+    "entities": {
+        "ORG": {
+            "verbose": "ORGANIZATION",
+            "short": "ORG"
+        },
+        "PER": {
+            "verbose": "PERSON",
+            "short": "PER"
+        },
+        "LOC": {
+            "verbose": "LOCATION",
+            "short": "LOC"
+        },
+        "MISC": {
+            "verbose": "MISCELLANEOUS",
+            "short": "MISC"
+        }
+    },
+    "relations": {}
+}

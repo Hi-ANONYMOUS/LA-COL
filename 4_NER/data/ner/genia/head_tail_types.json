@@ -1,0 +1,31 @@
+{
+    "head": {
+        "DNA": {
+            "verbose": "DNA",
+            "short": "DNA",
+            "num": 353
+        },
+        "protein": {
+            "verbose": "protein",
+            "short": "protein",
+            "num": 802
+        },
+                "cell_type": {
+            "verbose": "cell_type",
+            "short": "cell_type",
+            "num": 157
+        }
+    },
+    "tail": {
+        "RNA": {
+            "verbose": "RNA",
+            "short": "RNA",
+            "num": 26
+        },
+        "cell_line": {
+            "verbose": "cell_line",
+            "short": "cell_line",
+            "num": 100
+        }
+    }
+}
